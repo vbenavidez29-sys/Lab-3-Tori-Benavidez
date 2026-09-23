@@ -20,6 +20,10 @@ def div(x,y):
 
 ################################################################
 #################################################################
+###Start of program
+print("Welcome to my awsome calulator")
+print("What would you like to do?")
+print("Type (a)dd (s)ubtract (m)ultiply (d)ivde (q)uit)")
 
 x= int(input("Enter your first number: "))
 y= int(input("Enter your our second number: "))
